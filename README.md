@@ -4,6 +4,6 @@
 - Team: Carol Moore, Anita Taucher, Andrej Erkelens
 - Our hypothetical scenario was a brick and mortar retailer who wants to move some sales online.
 - Dataset:  the data science classic, diamonds.csv, which shows the prices and qualities of diamonds for sale at www.bluenile.com.
-- Repo content:  Submitted report revised May 2021.  Partial R code.
+- Repo content:  Submitted report revised May 2021.  R code for regessions.
 
 
