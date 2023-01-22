@@ -1,5 +1,5 @@
 #Authors:  Andrej Erkelens and Carol Moore; Revised by Carol Moore May 2021
-setwd('/Users/tiggy/Documents/R files/STAT/classdata')
+setwd('/Documents/R files/STAT/classdata')
 diamonds4 <- read.csv("diamonds4.csv")
 attach(diamonds4)
 library(MASS) #for box-cox plot
